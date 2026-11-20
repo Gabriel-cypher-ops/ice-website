@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# LAUNCH TODO: once the live domain is known, add this line:
+# Sitemap: https://YOUR-DOMAIN/sitemap.xml
