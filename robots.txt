@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# LAUNCH TODO: once the live domain is known, add this line:
-# Sitemap: https://YOUR-DOMAIN/sitemap.xml
+Sitemap: https://ice-enseleni.netlify.app/sitemap.xml
